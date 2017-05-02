@@ -1,7 +1,4 @@
 /.git/
-#/app/fonts/
-#/app/img/
-#/app/libs/
 /build/
 /node_modules/
 
